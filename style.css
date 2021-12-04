@@ -4,6 +4,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background: linear-gradient(black, grey);
+}
 nav {
      background-color: #031840;
      color: aliceblue;
